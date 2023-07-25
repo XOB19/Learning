@@ -1,2 +1,2 @@
 # Learning
-belajar phython
+learning phython
